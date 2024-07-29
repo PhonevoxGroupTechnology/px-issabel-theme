@@ -1,0 +1,2 @@
+Utilitário para a instalação do tema da Phonevox no PABX.
+Necessário aplicar manualmente após a instalação, através da página de temas do Issabel.
