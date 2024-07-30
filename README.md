@@ -6,7 +6,7 @@
 # Instalação
 
 ```sh
-git clone https://github.com/adriankubinyete/px-issabel-theme.git
+git clone https://github.com/PhonevoxGroupTechnology/px-issabel-theme.git
 cd px-issabel-theme
 chmod +x install.sh
 ./install.sh
